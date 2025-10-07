@@ -2,6 +2,13 @@
 
 This project is designed to optimize various aspects of AtliQ Hardwares' business including Finance, Sales, Marketing, Supply Chain, and Executive Management.
 
+### 
+🔗 [Live Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiZjFjMDlkNGYtYWM4ZS00YTA5LTg3NWEtNjJlMGJmN2QxOTgxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiZmZkYjVmMjMtNjc1Ni00MWRiLWFjMzYtYzhjMWI4NmJmMDUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+---
+## 📊 Presentaiton Link
+### 🔗 [Watch this Youtube Video]([https://youtu.be/XGazyITEnNo](https://youtu.be/SVVbQGLX5H4))
+
+---
 ## Project Highlights:
 
 - **Finance View:** Financial planning and expense management through analysis of Profit & Loss statements, net sales trends, and top-performing products and customers.
